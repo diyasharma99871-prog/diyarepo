@@ -32,7 +32,7 @@ a:hover{
 font-weight: bold;
 } */
 
-.container {
+/* .container {
   height : auto;
   width :800px;
   border : 2px solid black;
@@ -54,4 +54,21 @@ font-weight: bold;
   align-items : center;
   
 } 
+ */
 
+ body{
+  padding : 20px;
+
+ }
+
+ .container {
+  padding : 20px ;
+  background-color : rgb(197, 197, 83);
+  line-height : 1.6;
+ }
+
+ h1{
+  color :rgb(32, 93, 55);
+  text-align : center;
+  
+ }
